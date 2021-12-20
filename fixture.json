@@ -1,0 +1,54 @@
+[
+  {
+    "_id": "61b86441cbb85d07391c957c",
+    "Markets": [],
+    "Participants": [
+      {
+        "_id": {
+          "$oid": "61b86441cbb85d07391c957d"
+        },
+        "Id": 14884,
+        "Name": "Tigres UANL W",
+        "Position": 1,
+        "Logo": "https://media.api-sports.io/football/teams/14884.png"
+      },
+      {
+        "_id": {
+          "$oid": "61b86441cbb85d07391c957e"
+        },
+        "Id": 14868,
+        "Name": "América W",
+        "Position": 2,
+        "Logo": "https://media.api-sports.io/football/teams/14868.png"
+      }
+    ],
+    "LastUpdate": {
+      "$date": "2021-12-14T09:30:41.297Z"
+    },
+    "League": {
+      "$oid": "61b8617718bd085a88d155da"
+    },
+    "Location": {
+      "$oid": "61b861a318bd085a88d15acd"
+    },
+    "Sport": {
+      "$oid": "61728e18178eee2fac646861"
+    },
+    "StartDate": {
+      "$date": "2021-12-14T01:00:00.000Z"
+    },
+    "Status": "Match Finished",
+    "FixtureId": 815125,
+    "events": [],
+    "lineups": [],
+    "statistics": [],
+    "players": [],
+    "__v": 0,
+    "createdAt": {
+      "$date": "2021-12-14T09:30:41.635Z"
+    },
+    "updatedAt": {
+      "$date": "2021-12-14T09:30:41.635Z"
+    }
+  }
+]
